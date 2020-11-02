@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I am Arshad Sayyed 
 
-<!--
-**arshadsayyed75/arshadsayyed75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an I.T Engineer with Experienced knowledge of Linux Systems, Cloud services and DevOps.
 
-Here are some ideas to get you started:
+# 💻Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cloud : Amazon Web Services, Microsoft Azure
+- Container Orchestration : Kubernetes, Docker 
+- Infrastructure as Code : Ansible, Terraform, CloudFormation
+- CI/CD : Jenkins, GitLab, CodePipeline
+- Linux : Ubuntu, Red Hat, CentOS, Amazon Linux, Debian
+- Web Servers : Nginx, Apache
+- Monitoring : Nagios, Zabbix
+- Database Administration : MySQL, PostgreSQL, Redis, MongoDB
+- Big Data Tools: Hadoop Framework, NoSQL, Map/Reduce
+#
+- 🔭 I’m currently working on Cloud Services and arshadsayyed.tech
+- 🌱 I’m currently learning Amazon Web services, DevOps Technologies
+- 🤔 I’m looking for help with my Start-UP Carrier Counsel
+- 💬 Ask me about any thing TECH related stuff 
+- 📫 How to reach me: [Twitter](https://twitter.com/iamarshadsayyed) ,[Linkedin](www.linkedin.com/in/arshad75) ,[Facebook](https://www.facebook.com/arshad.0047)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spent almost more then 8 hour on "YOUTUBE" 
