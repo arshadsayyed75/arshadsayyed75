@@ -20,4 +20,3 @@ I am an I.T Engineer with Experienced knowledge of Linux Systems, Cloud services
 - 💬 Ask me about any thing TECH related stuff 
 - 📫 How to reach me: [Twitter](https://twitter.com/iamarshadsayyed) ,[Linkedin](www.linkedin.com/in/arshad75) ,[Facebook](https://www.facebook.com/arshad.0047)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spent almost more then 8 hour on "YOUTUBE" 
